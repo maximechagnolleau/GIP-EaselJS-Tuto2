@@ -1,1 +1,3 @@
-# GIP-EaselJS-Tuto2
+# Game in Progress
+
+## EaselJS - Tuto 2 : Sprite(no bull)sheets
